@@ -1,0 +1,2 @@
+Classes abstratas são criadas para que não sejam alteradas serve como ligação entre um objeto
+e uma abstração.
