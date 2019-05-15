@@ -1,5 +1,5 @@
 <?php
-//Padrão comportamental
+//Padrão estrutural
 
 require_once 'Adapter.php';
 
